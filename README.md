@@ -31,7 +31,7 @@
 
 [![Github Statistics](https://github-readme-stats.vercel.app/api?username=LuauProgrammer&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[twitter]: https://twitter.com/_aydenlmao
+[twitter]: https://twitter.com/aydenlmao_
 [discord]: https://discordhub.com/profile/759164557922664491
 [roblox]: https://www.roblox.com/users/127378116/profile
 [vsc]: https://code.visualstudio.com
