@@ -30,6 +30,10 @@
 ---
 
 [![Github Statistics](https://github-readme-stats.vercel.app/api?username=LuauProgrammer&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=LuauProgrammer&show_icons=true&theme=dark)
+
+
 
 [twitter]: https://twitter.com/aydenlmao_
 [discord]: https://discordhub.com/profile/759164557922664491
