@@ -17,6 +17,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsc]
+[<img align="left" alt="C" width="26px" src="https://user-images.githubusercontent.com/80683639/159186966-a40f9e83-166e-4e25-824d-54be87984b95.png" />][c]
 [<img align="left" alt="JavaScript" width="26px" src="https://www.freepnglogos.com/uploads/javascript-png/js-logo-png-5.png" />][javasc]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node.js]
 [<img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />][git]
@@ -39,6 +40,7 @@
 [discord]: https://discordhub.com/profile/759164557922664491
 [roblox]: https://www.roblox.com/users/127378116/profile
 [vsc]: https://code.visualstudio.com
+[c]: http://www.open-std.org/jtc1/sc22/wg14/
 [javasc]: https://www.javascript.com
 [node.js]: https://nodejs.org
 [git]: https://git-scm.com
