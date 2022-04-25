@@ -37,7 +37,7 @@
 
 
 [twitter]: https://twitter.com/aydenlmao_
-[discord]: https://discordhub.com/profile/759164557922664491
+[discord]: https://discord.gg/exW2JDRdkF
 [roblox]: https://www.roblox.com/users/127378116/profile
 [vsc]: https://code.visualstudio.com
 [c]: http://www.open-std.org/jtc1/sc22/wg14/
