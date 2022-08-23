@@ -3,8 +3,8 @@
 ## I'm a Programmer! Here's some things to know about me!
 - Working at [Soda Thief Studios](https://www.roblox.com/groups/7408442/Soda-Thief-Studios#!/about) on ROBLOX
 - Web Developer, I make web programs & Discord Bots!
-- Contributed to over 6 Million place visits on ROBLOX!
-- I love anime! Darling in the Franxx is my favorite anime!
+- Contributed to over 7 Million place visits on ROBLOX!
+- I love nine alpha. Best anime boy.
 
 ### Contact me on:
 
