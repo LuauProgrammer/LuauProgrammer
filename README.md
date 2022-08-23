@@ -2,7 +2,7 @@
 
 ## I'm a Programmer! Here's some things to know about me!
 - Working at [Soda Thief Studios](https://www.roblox.com/groups/7408442/Soda-Thief-Studios#!/about) on ROBLOX
-- Web Developer, I make web programs & Discord Bots!
+- Game Developer & Web Developer. I make discord bots and web applications!
 - Contributed to over 7 Million place visits on ROBLOX!
 - I love nine alpha. Best anime boy.
 
