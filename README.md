@@ -1,11 +1,5 @@
 ## Hi there, I'm Ayden! 👋
 
-### I'm a Programmer! Here's some things to know about me!
-- Working at [Soda Thief Studios](https://www.roblox.com/groups/7408442/Soda-Thief-Studios#!/about) on ROBLOX
-- Game Developer & Web Developer. I make discord bots and web applications!
-- Contributed to over 7 Million place visits on ROBLOX!
-- I love nine alpha. Best anime boy.
-
 ### Contact me on:
 
 [<img align="left" alt="Discord" width="22px" src="https://www.freeiconspng.com/uploads/discord-black-icon-1.png" />][discord]
