@@ -16,10 +16,11 @@ I'm a Full-Stack Programmer with over 6 years of experience building dynamic app
 ## Achievements & Experience
 * 🎮 **Former Head Developer** at [Soda Thief Studios](https://www.roblox.com/communities/7408442/Soda-Thief-Studios#!/about) on ROBLOX.
 * 📈 Contributed to game experiences accumulating over **15,000,000+ visits**.
+
 Contact me for a more detailed list of experience.
 
 ## Certifications
 * 🏅 **CompTIA ITF+ Certified**
 
 
-**X:** [@schizoicecream](https://x.com/schizoicecream) **ROBLOX:** [Quintinite](https://www.roblox.com/users/127378116/profile) **Discord:** `networkanalyst`
+[X](https://x.com/schizoicecream) [ROBLOX](https://www.roblox.com/users/127378116/profile) **Discord:** `networkanalyst`
